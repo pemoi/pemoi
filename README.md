@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**pemoi/pemoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+
 
 <h1 align="center">Hi 👋, I'm Luis Emmanuel Peña Soriano</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
